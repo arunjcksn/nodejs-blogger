@@ -1,0 +1,31 @@
+{
+  "name": "blogger",
+  "version": "1.0.0",
+  "description": "Blogger Demo with basic features to publish a blog and capture comments from other users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^0.8.5",
+    "bluebird-nodeify": "^1.0.0",
+    "body-parser": "^1.14.2",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.0",
+    "datauri": "^1.0.0-alpha.5",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "express-session": "^1.12.1",
+    "express-then": "^1.0.3",
+    "fs": "0.0.2",
+    "mongoose": "^4.3.5",
+    "morgan": "^1.6.1",
+    "multiparty": "^4.1.2",
+    "nodeifyit": "^1.0.2",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "songbird": "^1.0.1"
+  }
+}
